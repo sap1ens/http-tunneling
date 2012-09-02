@@ -1,7 +1,8 @@
 HTTP tunneling
 ==============
 
-Netty-based HTTP tunneling for POST requests
+Netty-based HTTP tunneling for POST requests.
+Can be used for proxying SOAP protocol.
 
 For building jar:
 ```
